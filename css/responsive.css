@@ -1,0 +1,279 @@
+@media(max-width: 479.98px) {
+
+
+    .team_image_overlay_text {
+        padding: 110px 20px !important;
+    }
+
+
+}
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .header_title {
+        width: auto;
+        margin-left: 0;
+    }
+    .banner_text {
+        margin-left: 0;
+    }
+    .banner_text ul{
+        margin-bottom: 30px;
+    }
+    #service_part {
+        padding: 50px 0px 60px 0px;
+    }
+    .service_text {
+        padding-top: 40px;
+    }
+    #service_two_part {
+        padding: 50px 0px;
+    }
+    .service2_text {
+        margin-bottom: 25px;
+    }
+    .service2_text_top p {
+        padding: 0;
+        margin-bottom: 35px;
+    }
+    .service2_image {
+        text-align: center;
+    }
+    .work_head_text p {
+        padding: 0;
+        margin-bottom: 40px;
+        margin-top: 30px;
+    }
+    #work_part ul {
+        margin-bottom: 50px;
+    }
+    .work_image {
+        margin-bottom: 16px;
+    }
+    #team_part {
+        padding: 60px 0px;
+    }
+    .team_head_text p {
+        padding: 0;
+        margin-bottom: 55px;
+    }
+    .team_image_overlay_text {
+        padding: 185px 20px;
+    }
+    .team_image_overlay_text p {
+        margin-bottom: 60px;
+    }
+    #counter_part {
+        padding: 50px 0px 90px 0px;
+    }
+    .counter_text {
+        margin-top: 10px;
+    }
+    .counter_text i {
+        margin-top: 30px;
+    }
+    #contact_part {
+        padding: 50px 0px;
+    }
+    .contact_head p {
+        padding: 0;
+        margin-bottom: 45px;
+        margin-top: 30px;
+    }
+    .contact_middle h4 {
+        margin-top: 30px;
+    }
+    .contact_right {
+        margin-top: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .contact_right a{
+        float: left;
+        margin-right: 15px;
+    }
+    .contact_right a:last-child{
+        margin-right:0;
+    }
+    #contact_part input[type="text"] {
+        width: 100%;
+    }
+    #contact_part input[type="email"] {
+        width: 100%;
+        margin-left: 0;
+    }
+    #map_part iframe {
+        width:100%;
+        margin-bottom: 0;
+    }
+
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .header_title {
+        width: 68%;
+    }
+    .banner_text {
+        margin-left: 0;
+    }
+    .banner_text ul{
+        margin-bottom: 30px;
+    }
+    #service_part {
+        padding: 50px 0px 60px 0px;
+    }
+    .service_text {
+        padding-top: 40px;
+    }
+    #service_two_part {
+        padding: 50px 0px;
+    }
+    .service2_text {
+        margin-bottom: 25px;
+    }
+    .service2_text_top p {
+        padding: 0;
+        margin-bottom: 35px;
+    }
+    .service2_image {
+        text-align: center;
+    }
+    .work_head_text p {
+        padding: 0;
+        margin-bottom: 40px;
+        margin-top: 30px;
+    }
+    #work_part ul {
+        margin-bottom: 50px;
+    }
+    #team_part {
+        padding: 60px 0px;
+    }
+    .team_head_text p {
+        padding: 0;
+        margin-bottom: 55px;
+    }
+    .team_image_overlay_text p {
+        margin-bottom: 60px;
+    }
+    #counter_part {
+        padding: 50px 0px 90px 0px;
+    }
+    .counter_text i {
+        margin-top: 30px;
+    }
+    #contact_part {
+        padding: 50px 0px;
+    }
+    .contact_head p {
+        padding: 0;
+        margin-bottom: 45px;
+        margin-top: 30px;
+    }
+    .contact_middle h4 {
+        margin-top: 30px;
+    }
+    .contact_right {
+        margin-top: 35px;
+    }
+    #contact_part input[type="text"] {
+        width: 100%;
+    }
+    #contact_part input[type="email"] {
+        width: 100%;
+        margin-left: 0;
+    }
+    #map_part iframe {
+        width:100%;
+        margin-bottom: 0;
+    }
+
+}
+
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .header_title {
+        width: 75%;
+    }
+    .banner_text {
+        margin-left: 0;
+    }
+    .banner_text ul{
+        margin-bottom: 30px;
+    }
+    .service2_image {
+        text-align: center;
+    }
+    .team_image_overlay_text {
+        padding: 10px 20px;
+    }
+    .team_image_overlay_text p {
+        margin-bottom: 5px;
+    }
+    .contact_middle h4 {
+        margin-top: 35px;
+    }
+    .contact_right {
+        margin-top: 35px;
+    }
+    #map_part iframe {
+        width: 100%;
+    }
+    
+}
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px) { 
+
+    .footer_right ul {
+        margin-right: 23px;
+    }
+    .team_image_overlay_text {
+        padding: 8px 20px;
+    }
+    .team_image_overlay_text p {
+        margin-bottom: 9px;
+    }
+    
+
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) { 
+
+
+
+
+}
+
+
+
